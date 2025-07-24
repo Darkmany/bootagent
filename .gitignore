@@ -12,3 +12,7 @@ pyproject.toml
 # Virtual environments
 .venv
 .env
+
+#testing
+tests.py
+calculator/*
